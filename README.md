@@ -1,3 +1,8 @@
+# LEARNED REACT THROUGH A PROJECT FROM DIPESH MALVIA'S YT CHANNEL
+# TO RUN THIS, SET UP A JSON SERVER FIRST (AS THE CODE WAS CHANGED TO NOT STORE IN LOCAL STORAGE)
+# CODE EXISTS ON MY PC BUT ON GITHUB (OR GET THE CODE FROM DIPESH MALVIA'S YT VIDEO)
+# https://www.youtube.com/watch?v=0riHps91AzE&t=4877s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
